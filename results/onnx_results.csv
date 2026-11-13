@@ -1,0 +1,6 @@
+model,onnx_top1,onnx_mb
+fp32,92.96,44.68592
+ptq_int8,92.93,11.294103
+qat_int8,93.03,11.294103
+unstructured,92.56,44.68592
+structured,92.43,27.05722
